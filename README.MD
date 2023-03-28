@@ -62,6 +62,7 @@ The technology used for this application was ReactJS, NodeJS, MongoDB, Cloudinar
 -   **[NODEJS](https://nodejs.org/en)**
 -   **[CLOUDINARY](https://cloudinary.com/)**
 -   **[OPENAI](https://openai.com/product)**
+-   **[RENDER](https://render.com/)**
 
 ---
 
